@@ -1,0 +1,225 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"one",
+				"one_third"
+			],
+			[
+				"wid",
+				"widget_ns_mailchimp"
+			],
+			[
+				"button",
+				"button-ico"
+			],
+			[
+				"save",
+				"save-only"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/HTML-Chrome.sublime-build",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"package control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Ryan/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/Ryan/AppData/Local/Temp/fz3temp-1/wp-settings.php",
+		"/C/Users/Ryan/Documents/wamp/www/secondsmile/wp-snapshots/index.php",
+		"/C/php/includes/PHPMailer/examples/mail.phps",
+		"/C/Users/Ryan/Documents/wamp/www/secondsmile/wp-content/themes/secondsmile/single.php",
+		"/C/Users/Ryan/Documents/wamp/www/secondsmile/wp-content/themes/secondsmile/framework/admin/options/cmsms-theme-options-general.php",
+		"/C/Users/Ryan/Documents/wamp/www/secondsmile/wp-content/themes/halsey/single.php",
+		"/C/Users/Ryan/Documents/wamp/www/secondsmile/wp-content/themes/halsey/framework/admin/options/cmsms-theme-options-post.php",
+		"/C/Users/Ryan/Documents/wamp/www/secondsmile/wp-content/themes/halsey/framework/admin/options/cmsms-theme-options-general.php",
+		"/C/Users/Ryan/Documents/wamp/www/secondsmile/wp-content/themes/halsey/functions.php",
+		"/C/Users/Ryan/Documents/wamp/www/secondsmile/wp-content/themes/halsey/framework/function/template-functions.php",
+		"/C/Users/Ryan/Documents/wamp/www/secondsmile/wp-content/themes/halsey/blog.php",
+		"/C/Users/Ryan/Documents/wamp/www/secondsmile/wp-content/themes/halsey/readme.txt",
+		"/C/Users/Ryan/Documents/wamp/www/secondsmile/wp-content/themes/halsey/page.php",
+		"/C/Users/Ryan/Documents/wamp/www/secondsmile/wp-content/themes/halsey/index.php",
+		"/C/Users/Ryan/Documents/wamp/www/secondsmile/wp-content/themes/secondsmile/css/adaptive.css",
+		"/C/Users/Ryan/Documents/wamp/www/secondsmile/wp-content/themes/halsey/header.php",
+		"/C/Users/Ryan/Documents/wamp/www/qeegbc/css/style.css",
+		"/C/Users/Ryan/Documents/wamp/www/qeegbc/index.html",
+		"/C/Users/Ryan/Documents/wamp/www/secondsmile/wp-content/themes/secondsmile/style.css",
+		"/C/Users/Ryan/Documents/wamp/www/murrietahomes/wp-content/themes/realia/export/realia.wordpress.2013-07-08.xml",
+		"/C/Users/Ryan/Documents/wamp/www/murrietahomes/wp-content/themes/realia/export/homepage.xml",
+		"/C/Users/Ryan/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Ryan/Documents/wamp/www/qeegbc/qeegbc.sublime-project",
+		"/C/Users/Ryan/Documents/wamp/www/qeegbc/pages.html",
+		"/C/Users/Ryan/Documents/wamp/www/qeegbc/qeegbc.sublime-workspace",
+		"/C/Users/Ryan/Documents/wamp/www/qeegbc/css/foundation.css",
+		"/C/Users/Ryan/Documents/Web Design/Templates/HTML5/themeforest-3795466-smartland-responsive-multipurpose-landing-page/smartland/css/style.css",
+		"/C/Users/Ryan/Documents/Web Design/Templates/HTML5/themeforest-3795466-smartland-responsive-multipurpose-landing-page/smartland/css/flexslider.css",
+		"/C/Users/Ryan/Documents/Web Design/Templates/HTML5/themeforest-3795466-smartland-responsive-multipurpose-landing-page/smartland/css/foundation.css",
+		"/C/Users/Ryan/Documents/Web Design/Templates/HTML5/themeforest-3795466-smartland-responsive-multipurpose-landing-page/smartland/css/prettyphoto.css",
+		"/C/Users/Ryan/Documents/Web Design/Templates/HTML5/themeforest-3795466-smartland-responsive-multipurpose-landing-page/smartland/css/reset.css",
+		"/C/Users/Ryan/AppData/Roaming/Sublime Text 2/Packages/User/HTML-Chrome.sublime-build",
+		"/C/Users/Ryan/Documents/Web Design/Templates/HTML5/themeforest-3795466-smartland-responsive-multipurpose-landing-page/help/index.html",
+		"/C/Users/Ryan/Desktop/wp-config.php",
+		"/C/Users/Ryan/Documents/wamp/www/index.php",
+		"/C/Users/Ryan/AppData/Roaming/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Ryan/Documents/wamp/www/mcneelyfs/wp-content/themes/mcneelyfs/style.css",
+		"/C/Users/Ryan/AppData/Local/Temp/fz3temp-1/global.css",
+		"/C/Users/Ryan/Documents/wamp/www/secondsmile/wp-content/themes/halsey/style.css",
+		"/C/Users/Ryan/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Ryan/Desktop/tester.js"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"cmsms_heading",
+			"post_meta_box",
+			"767",
+			"idx",
+			"home",
+			"pointer",
+			"rs-icon",
+			"img",
+			"slides",
+			";\n",
+			"	background-image: url(images/body_bg.png) repeat-all;\n",
+			"autoplay",
+			"img",
+			"font-family",
+			"font-family\n",
+			";\n",
+			"font-style",
+			"space"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true
+}
