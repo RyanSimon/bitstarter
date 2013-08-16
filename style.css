@@ -64,6 +64,10 @@ p {
   text-align: center;
 }
 
+.coinbase-button {
+  margin: 0 auto;
+}
+
 .addthis_toolbox {
   width: 180px;
   margin: 0 auto;
